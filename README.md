@@ -6,7 +6,7 @@ Este proyecto es una REST API que utiliza cheerio para hacer web scraping de los
 
 Podes hacerlo en tu propiacomputadora, debes tener NodeJS instalado y correr el siguiente comando:
 ```bash
-npm i
+npm install
 ```
 
 ### Correr el proyecto
